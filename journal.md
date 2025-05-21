@@ -10,6 +10,9 @@ Cool results
 ## Figures
 Add nice plots
 
+# Conclusion
+Important conclusion
+
 # Reference
 Smith et al. (2020)
 Markello et al. (2019)
