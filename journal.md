@@ -1,5 +1,5 @@
-# This is a paper
-written by CEK
+# This is a paper is collaborative !
+written by CEK and John
 
 # Introduction
 This is the introduction.
